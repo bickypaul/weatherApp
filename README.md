@@ -8,10 +8,11 @@ A user can add and delete a city on the browser.
 This is just a practice projects. Do check out the source codes.
 
 ## Requirements (tested on)
-1. Virtual Environment
-2. Django 2.1.2
-3. pip install requests
-4. sign up to www.openweathermap.org and get the API key.
+1. Ubuntu 18.04
+2. Virtual Environment
+3. Django 2.1.2
+4. pip install requests
+5. sign up to www.openweathermap.org and get the API key.
 
 ## To execute
 1. git clone https://github.com/bickypaul/weatherApp
